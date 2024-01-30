@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+main {
+  background-color: #EEEEEE;
+  background-size: cover;
+  box-shadow: none;
+  font-family: sans-serif; 
+  font-weight: 300;
+  text-align: center;
+}
+
+title {
+  width: 100%;
+  font-size: 150%;
+  padding: 0;
+}
+
+.img-div {
+  margin-bottom: 15px;
+  max-width: 100%;
+  display: flex;
+  justify-items: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
